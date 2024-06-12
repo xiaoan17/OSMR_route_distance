@@ -4,7 +4,7 @@
 
 本项目是复现工作[LargeST: A Benchmark Dataset for Large-Scale Traffic Forecasting (NeurIPS 2023 DB Track)]的过程中，开展的部分工作，Largest项目的地址为：https://github.com/liuxu77/LargeST。
 
-其中，该项目主要涉及计算检测器节点之间的驾驶距离，这部分工作主要参考一项名为OSMR（Open Source Routing Machine - C++ backend）的研究，这是一项非常有趣的研究，该项目的地址为：https://github.com/Project-OSRM/osrm-backend。
+其中，该项目主要涉及计算检测器节点之间的驾驶距离，这部分工作主要参考一项名为OSRM（Open Source Routing Machine - C++ backend）的研究，这是一项非常有趣的研究，该项目的地址为：https://github.com/Project-OSRM/osrm-backend。
 
 需要提醒的是，本项目的代码和数据分别归类到了两个文件夹（coda、data），进行复现或者调用的时候，**需要修改相关的文件路径**。
 
